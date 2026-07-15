@@ -1,4 +1,4 @@
-# Vulnerability Hunting Methodology
+# Vulnerability Mining Methodology
 
 Universal sink-to-source vulnerability discovery. Applicable to any target — firmware, web apps, binaries, IoT, embedded Linux. Derived from real-world zero-day exploitation across multiple devices.
 
@@ -114,7 +114,7 @@ for endpoint in all_endpoints:
         send(method, endpoint, auth, {param: payload})
 ```
 
-### 3.4 SSRF Hunting
+### 3.4 SSRF Mining
 
 ```
 # Host header injection
