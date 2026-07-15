@@ -1,5 +1,5 @@
 """
-toolkit.py — Reusable utilities for vulnerability hunting.
+toolkit.py — Reusable utilities for vulnerability mining.
 
 Usage:
     from toolkit import scan_sinks, port_scan, ssrf_test, ...
