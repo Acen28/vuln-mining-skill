@@ -1,6 +1,6 @@
-# vuln-hunting
+# vuln-mining
 
-Universal vulnerability hunting methodology: sink-to-source binary analysis, API fuzzing, protocol reversal, SSRF hunting, IPC mapping, and PoC development. Works on any target — IoT firmware, web applications, embedded Linux, Android, desktop binaries.
+Universal vulnerability mining methodology: sink-to-source binary analysis, API fuzzing, protocol reversal, SSRF hunting, IPC mapping, and PoC development. Works on any target — IoT firmware, web applications, embedded Linux, Android, desktop binaries.
 
 ## Files
 
@@ -15,7 +15,7 @@ Universal vulnerability hunting methodology: sink-to-source binary analysis, API
 ## Quick Start
 
 1. Copy this folder to your workspace.
-2. In a new session, reference `SKILL.md` by saying "use the vuln-hunting skill".
+2. In a new session, reference `SKILL.md` by saying "use the vuln-mining skill".
 3. Or prepend `headers.txt` as custom instructions.
 4. Import `toolkit.py` functions as needed.
 
